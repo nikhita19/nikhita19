@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Automated Traffic Analysis
-- 🌱 I’m currently learning Brain Computer Interfaces
+- 🌱 I’m learning Brain Computer Interfaces
+- 👯 I’m looking to collaborate on Predicting Blood Pressure from Heart Rate using wearables.
+- 📫 How to reach me: nikhitadevgan@gmail.com
 
 <!--
 **nikhita19/nikhita19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
