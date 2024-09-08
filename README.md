@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Automated Traffic Analysis
+- 🔭 I’m currently working on Home & Auto Lending Technology
 - 🌱 I’m learning Brain Computer Interfaces
 - 👯 I’m looking to collaborate on Predicting Blood Pressure from Heart Rate using wearables.
 - 📫 How to reach me: nikhitadevgan@gmail.com
